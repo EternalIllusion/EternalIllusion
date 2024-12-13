@@ -1,7 +1,8 @@
 # EternalIllusion | EterIll
 ## 恒寂幻灭 | 艾特里尔
 [eternalillusion.github.io](https://eternalillusion.github.io/)
-[个人介绍|Personal Info](https://eternalillusion.github.io/post/readme/)
+
+[个人介绍|Personal Info](https://eternalillusion.github.io/post/readaboutme/)
 
 语言|Languages：
 - 🇨🇳简体中文|Chinese|ZH-Hans (文档主语言)
