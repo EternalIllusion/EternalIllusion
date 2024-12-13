@@ -1,7 +1,11 @@
 # EternalIllusion | EterIll
 ## 恒寂幻灭 | 艾特里尔
+[eternalillusion.github.io](https://eternalillusion.github.io/)
+[个人介绍|Personal Info](https://eternalillusion.github.io/post/readme/)
 
-语言|Languages：🇨🇳简体中文|Chinese|ZH-Hans 🇺🇸English(American)|EN-US
+语言|Languages：
+- 🇨🇳简体中文|Chinese|ZH-Hans (文档主语言)
+- 🇺🇸English(American)|EN-US (Mainly for communication)
 
 | 00后硬件DIY爱好者 | Python | 电路设计专业技能初级 |
 
@@ -15,17 +19,7 @@ MBTI: **INTP-T**
 
 ❤️丹恒·饮月 | Imbibitor Lunae
 
-*以下内容仅供LGBT盛行区使用|The following contents is for LGBT-promoting areas only.*
 
-性别|Sex：男|Male
-
-心理性别：25%男 26%女 49%无性
-
-*Mental Sex: 25%Male 26%Female 49%Nonsexual*
-
-提及我时，使用`他`或者`她`都行，但请您尽量使用`他`。
-
-Both `he` or `she` is okay when you mention me, but I preferred `he` more.
 <!---
 EternalIllusion/EternalIllusion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
